@@ -48,4 +48,4 @@ int main() {
         cout << "Bebida seleccionada: " << bebida << endl;
     }
     return 0;
-}
+} // MODIFIQUE EL EJERCICIO PARA EL CASO QUE SI LA SUMA DE LAS ENTRADAS SUPERA LOS 200 SE LES DARA UN DESCUENTO DEL 20% EN LA SIGUIENTE FUNCION
